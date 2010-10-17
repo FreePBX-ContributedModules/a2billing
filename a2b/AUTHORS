@@ -1,0 +1,53 @@
+
+
+A2Billing (c) AGPL 2003-2010
+
+
+A2Billing is free software written by :
+	
+	Areski Belaid <info@asterisk2billing.org>
+	
+	with contributions from :
+	
+		Rachid Belaid <rach@asterisk2billing.org>  
+		Panos Christeas <p_christ@hol.gr>
+		Steve Dommett <steve@st4vs.net>
+		Alberto Escudero-Pascual <aep@it46.se>
+		Louise Berthilson <louise@it46.se>
+		Jonathan Roper <jonathan@asterisk2billing.org>
+		Abdoulaye Siby <asiby@hotmail.com>
+		David Lemstra <david@lemstra.ca>
+		Gavin Henry <ghenry@suretecsystems.com> for the Iridium Payment Module
+		Vinicius from ToFalando (http://www.tofalando.net.br)
+
+
+The following third party software is included with the distribution:
+
+	* phpagi 2.14 Copyright 2003, 2004, 2005 Matthew Asham and David Eder
+	* smarty 2.6.26 Copyright 2001-2005 New Digital Group, Inc
+	* jgraph 1.27 Copyright 2001, 2002, 2003, 2004 Johan Persson Aditus Consulting 
+	* adodb 4.991 Copyright (c) 2000, 2001, 2002, 2003, 2004 John Lim
+	* famfamfam.com Icons from Mark James
+	* phpconfig (C) 2003 Dave Packham and Rob Birkinshaw
+	* PHP Quick Profiler : http://particletree.com/features/php-quick-profiler/
+	* PHPMailer V5.0.0 Copyright © 1999-2009, Worx International Inc : http://phpmailer.codeworxtech.com/
+	* phpSysInfo 2.5.3 - http://phpsysinfo.sourceforge.net/
+
+
+Translations credit :
+
+	Brazilian : Emerson Reis <eluizbr@tofalando.com.br>
+	Spanish Customer UI : Ivan Žilic Schmidt <ivan@zilic.net>
+	French : Jean Cérien <cerien.jean@gmail.com> & Arnold KAMBA <arnoldkamba@live.fr>
+	Turkish : Tamer Keser <tkeser080107@hotmail.com>
+	German : Tamer Keser <tkeser080107@hotmail.com>
+	Spanish Admin UI : Federico Pereira <info@opentecnologic.com>
+	Spanish Agent UI : Yennier Capote <yycapote@gmail.com>
+    Greek Customer UI: Polihronis Porfiris <pporfiris@hotmail.com>
+
+
+Thanks to the community!
+
+
+
+

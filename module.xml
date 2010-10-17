@@ -1,0 +1,17 @@
+<module>
+	<rawname>a2billing</rawname>
+	<name>A2Billing Config</name>
+	<version>0.0.1</version>
+	<publisher></publisher>
+	<license>GPLv2+</license>
+	<type>tool</type>
+	<category>System Administration</category>
+	<description>Adds configurations, options and GUI for getting A2Biliing off the ground</description>
+	<changelog>
+	</changelog>
+	<depends>
+		<version>2.8.0beta1</version>
+	</depends>
+	<location>release/2.8/fax-2.8.0.5.tgz</location>
+	<md5sum>d25a580c4b1a3760d7e7a1c6eb52cb2e</md5sum>
+</module>

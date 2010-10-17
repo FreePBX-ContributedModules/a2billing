@@ -1,0 +1,15 @@
+diff -ru a2b-orig/addons/contrib/test-cases/lib/Class.A2Billing.php a2b/addons/contrib/test-cases/lib/Class.A2Billing.php
+ 
+Only in a2b/common: common
+diff -ru a2b-orig/common/lib/Class.A2Billing.php a2b/common/lib/Class.A2Billing.php
+--- a2b-orig/common/lib/Class.A2Billing.php	2010-09-29 03:46:05.000000000 +0200
++++ a2b/common/lib/Class.A2Billing.php	2010-09-29 04:01:04.000000000 +0200
+@@ -33,7 +33,7 @@
+  * 
+ **/
+ 
+-define('A2B_CONFIG_DIR', '/etc/');
++define('A2B_CONFIG_DIR', '/etc/asterisk/');
+ define('AST_CONFIG_DIR', '/etc/asterisk/');
+ define('DEFAULT_A2BILLING_CONFIG', A2B_CONFIG_DIR . 'a2billing.conf');
+
